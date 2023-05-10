@@ -40,3 +40,44 @@
 .read-the-docs {
   color: #888;
 }
+
+.container {
+  border: 2px solid;
+  padding: 5px;
+  width: 800px;
+}
+
+.cardimage {
+  text-align: left;
+  flex-direction: column;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+
+}
+
+.greetings {
+    border: 2px solid;
+    padding: 5px;
+    width: 800px;
+    text-align: left;
+  }
+
+  .random {
+    border: 2px solid;
+    padding: 5px;
+    width: 800px;
+    text-align: left;
+  }
+
+  .BoxColor {
+    border: 2px solid;
+    display: flexbox;
+    padding: 4spx;
+    width: 800px;
+    text-align: center;
+
+  }
